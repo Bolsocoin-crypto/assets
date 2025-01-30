@@ -1,0 +1,10 @@
+{
+  "name": "Bolsocoin",
+  "symbol": "BOLSO",
+  "decimals": 18,
+  "description": "Bolsocoin is more than just a meme token – it's a movement. Built on Binance Smart Chain (BSC), it represents a community-driven approach to politics, economy, and digital freedom. Fast, low-fee transactions and represents a new way to engage in digital activism.",
+  "website": "https://www.bolsocoin.com/",
+  "explorer": "https://bscscan.com/token/0xc820D32224788492eE412eC5Ae1A3953D64Bbd10",
+  "status": "active",
+  "id": "0xc820D32224788492eE412eC5Ae1A3953D64Bbd10"
+}
